@@ -1,5 +1,11 @@
-## Hi there 👋
+## Lou-kku's Repository
+──────────── ✨ 🌱 ✨ ────────────
 
+🌐 Learning Computer Science  
+
+🎓 Third-Year Student at Gachon University  
+
+──────────── ✨ 🌱 ✨ ────────────
 <!--
 **Lou-kku/Lou-kku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
